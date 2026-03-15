@@ -7,3 +7,6 @@ package-lock.json
 .shopify
 *.toml_bk
 
+
+# Claude Code
+.claude/
